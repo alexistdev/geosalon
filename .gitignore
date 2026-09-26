@@ -11,6 +11,8 @@ out-tsc/
 # Cache
 .nx/cache
 .nx/workspace-data
+.nx/migrate-runs
+.nx/polygraph
 .angular/
 coverage/
 
