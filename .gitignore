@@ -1,0 +1,39 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies & build
+node_modules/
+dist/
+tmp/
+out-tsc/
+
+# Cache
+.nx/cache
+.nx/workspace-data
+.angular/
+coverage/
+
+# Env
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Logs & backup
+*.log
+backups/
+*.dump
+*.sql.gz
+
+# Claude Code
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+
+# Dokumen internal
+docs/plan-sibel.md
