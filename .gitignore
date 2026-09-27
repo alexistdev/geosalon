@@ -7,6 +7,7 @@ node_modules/
 dist/
 tmp/
 out-tsc/
+apps/api/src/generated/
 
 # Cache
 .nx/cache
